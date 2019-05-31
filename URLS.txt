@@ -9,3 +9,15 @@ https://www.youtube.com/watch?v=srPXMt1Q0nY
 Object-oriented Programming in JavaScript: Made Super Simple 
 https://www.youtube.com/watch?v=PFmuCDHHpwk
  
+
+
+https://github.com/sudhir9p/Nodejs-Express/blob/master/server.js
+
+
+https://github.com/kan412/NewsFeed/blob/homework_07/data/news.js
+
+https://github.com/NJaryal/NodeExpress/blob/master/api/routes/news.js
+
+
+ES6 JS
+https://www.tutorialspoint.com/es6/
