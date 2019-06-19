@@ -24,3 +24,6 @@ https://www.tutorialspoint.com/es6/
 
 ReactJS Tutorial 
 https://www.youtube.com/watch?v=9hb_0TZ_MVI&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
+
+JavaScript:
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
